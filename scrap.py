@@ -1,0 +1,2 @@
+arr = [[],[],[]]
+print(len(arr))
