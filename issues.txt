@@ -1,0 +1,5 @@
+list of issues :
+- adding dice to a board that has already had dice removed
+- inputting invalid columns is possible
+- dice are displayed as integers 
+
